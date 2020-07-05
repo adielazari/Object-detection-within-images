@@ -40,6 +40,8 @@ Replaced the residual blocks we defined above with a dilated convolutional block
 #### Step 6:
 Added pretrained network (efficientnet/VGG16/resnet) feature extractor to the network (note that the input to the network is only being read once)
 
+![image](https://user-images.githubusercontent.com/44158047/86541208-cb0afc00-bf13-11ea-8f0f-feb610967f68.png)
+
 
 
 
