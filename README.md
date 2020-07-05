@@ -6,8 +6,9 @@ Our basic dataset for this task will be the PascalVOC 2007 dataset which I share
 https://drive.google.com/open?id=1UFoUNOznWKg9lOgYtuawgSasd5_rLWDF 
 
 First created a dataset with images of 3 different sizes:
-
-X - 72x72x3;      y_mid – 144x144x3;      y_large – 288x288x3
+X - 72x72x3;      
+y_mid – 144x144x3;      
+y_large – 288x288x3
 
 We loaded and generated the above arrays of input images, we would like to split them into training and validating our model, for simplicity, we will use the first 1000 images for validation and the rest for training. 
 Next, we presented few images so that we can compare the training with our desired labels.
