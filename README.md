@@ -6,6 +6,7 @@ Our basic dataset for this task will be the PascalVOC 2007 dataset which I share
 https://drive.google.com/open?id=1UFoUNOznWKg9lOgYtuawgSasd5_rLWDF 
 
 First created a dataset with images of 3 different sizes:
+
 X - 72x72x3;      
 y_mid – 144x144x3;      
 y_large – 288x288x3
