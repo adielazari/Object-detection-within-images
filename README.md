@@ -15,6 +15,15 @@ We get something like this as an output:
 Created an initial model
 In this step we created the following (vanilla) model:
 
+![image](https://user-images.githubusercontent.com/44158047/86541081-abbf9f00-bf12-11ea-80a3-a160b614f1b7.png)
+
+We fitted this model to our data using X_train and y_mid_train only
+
+#### Step 3:
+We added another block to our model so now we have both 144x144x3 output along with 288x288x3 output as follows:
+
+
+
 
 
 
