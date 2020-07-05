@@ -35,6 +35,11 @@ We spended a moment to think, what should be the input and output of the residua
 #### Step 5:
 Replaced the residual blocks we defined above with a dilated convolutional block as described below:
 
+![image](https://user-images.githubusercontent.com/44158047/86541183-9139f580-bf13-11ea-8f77-74a8ea2456e8.png)
+
+#### Step 6:
+Added pretrained network (efficientnet/VGG16/resnet) feature extractor to the network (note that the input to the network is only being read once)
+
 
 
 
