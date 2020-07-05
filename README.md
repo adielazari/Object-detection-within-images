@@ -30,6 +30,11 @@ The residual blocks that we added were defined as a function with no arguments t
 We later used this residual block definition within our model prior to every UpSampling layer
 We spended a moment to think, what should be the input and output of the residual-block model.
 
+![image](https://user-images.githubusercontent.com/44158047/86541161-5afc7600-bf13-11ea-8b43-babf39b457bb.png)
+
+#### Step 5:
+Replaced the residual blocks we defined above with a dilated convolutional block as described below:
+
 
 
 
