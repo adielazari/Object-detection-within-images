@@ -22,6 +22,14 @@ We fitted this model to our data using X_train and y_mid_train only
 #### Step 3:
 We added another block to our model so now we have both 144x144x3 output along with 288x288x3 output as follows:
 
+![image](https://user-images.githubusercontent.com/44158047/86541105-ddd10100-bf12-11ea-827d-b18ac9e5f7ab.png)
+
+#### Step 4:
+Added residual blocks into the process
+The residual blocks that we added were defined as a function with no arguments that returns a model.
+We later used this residual block definition within our model prior to every UpSampling layer
+We spended a moment to think, what should be the input and output of the residual-block model.
+
 
 
 
