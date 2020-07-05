@@ -9,4 +9,12 @@ We loaded and generated the above arrays of input images, we would like to split
 Next, we presented few images so that we can compare the training with our desired labels.
 We get something like this as an output:
 
+![image](https://user-images.githubusercontent.com/44158047/86541060-7adf6a00-bf12-11ea-97ae-2958c983de02.png)
+
+#### Step 2:
+Created an initial model
+In this step we created the following (vanilla) model:
+
+
+
 
